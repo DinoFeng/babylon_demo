@@ -9,7 +9,6 @@ export default defineComponent({
 
     onMounted(() => {
       if (bjsCanvas.value) {
-        console.debug(bjsCanvas.value)
         const antialias = true
         const forceSRGBBufferSupportState = true
         const enging = new BABYLON.Engine(bjsCanvas.value, antialias, {

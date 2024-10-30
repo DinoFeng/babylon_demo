@@ -1,0 +1,845 @@
+Exporter version: 3.3.2, Blender version: 3.5.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  D:\个人\CIT\Aimde\babylog\export\shinny\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently enabled collection
+	processing begun of node:  亮片_Scene_Node
+	processing begun of node:  Cloth
+	processing begun of mesh:  LK39849F1 COWW-TEM
+		processing begun of material:  亮片_2888
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_1' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_0' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_2' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_2' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			bake time:  0 min, 0.0075 secs
+		Custom split normals with tangents being used
+		num positions      :  3576
+		num normals        :  3576
+		num tangents       :  14304
+		num uvs            :  7152
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  5800
+	processing begun of mesh:  LK39849F1 plttt
+		processing begun of material:  亮片_2888.001
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_1' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_0' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_2' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_2' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			bake time:  0 min, 0.0134 secs
+		Custom split normals with tangents being used
+		num positions      :  1603
+		num normals        :  1603
+		num tangents       :  6412
+		num uvs            :  3206
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2670
+	processing begun of mesh:  Buttonhole_753983
+		processing begun of material:  Custom Buttonhole_02_2957
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_3' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+		Custom split normals with tangents being used
+		num positions      :  42
+		num normals        :  42
+		num tangents       :  168
+		num uvs            :  84
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  44
+	processing begun of mesh:  Buttonhole_756832
+		processing begun of material:  Custom Buttonhole_02_2957.001
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_3' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+		Custom split normals with tangents being used
+		num positions      :  32
+		num normals        :  32
+		num tangents       :  128
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  28
+	processing begun of mesh:  Buttonhole_759688
+		processing begun of material:  Custom Buttonhole_02_2957.002
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_3' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+		Custom split normals with tangents being used
+		num positions      :  36
+		num normals        :  36
+		num tangents       :  144
+		num uvs            :  72
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32
+	processing begun of mesh:  Buttonhole_762513
+		processing begun of material:  Custom Buttonhole_02_2957.003
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_3' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+		Custom split normals with tangents being used
+		num positions      :  32
+		num normals        :  32
+		num tangents       :  128
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  28
+	processing begun of mesh:  LK39849F1 COT-TEM
+		processing begun of material:  亮片_2888.002
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_1' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_0' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_2' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_2' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			bake time:  0 min, 0 secs
+		Custom split normals with tangents being used
+		num positions      :  8104
+		num normals        :  8104
+		num tangents       :  32416
+		num uvs            :  16208
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  14324
+	processing begun of mesh:  LK39849F1 plttt 2
+		processing begun of material:  亮片_2888.003
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_1' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_0' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_2' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_2' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			bake time:  0 min, 0 secs
+		Custom split normals with tangents being used
+		num positions      :  1081
+		num normals        :  1081
+		num tangents       :  4324
+		num uvs            :  2162
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1722
+	processing begun of mesh:  LK39849F1 BK
+		processing begun of material:  亮片_2888.004
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_1' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_0' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_2' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_2' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			bake time:  0 min, 0.0522 secs
+		Custom split normals with tangents being used
+		num positions      :  38340
+		num normals        :  38340
+		num tangents       :  153360
+		num uvs            :  76680
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  72788
+	processing begun of mesh:  LK39849F1 FR
+		processing begun of material:  亮片_2888.005
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_1' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_0' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_2' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_2' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			bake time:  0 min, 0.0502 secs
+		Custom split normals with tangents being used
+		num positions      :  36211
+		num normals        :  36211
+		num tangents       :  144844
+		num uvs            :  72422
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  68264
+	processing begun of mesh:  LK39849F1 BTA1
+		processing begun of material:  亮片_2888.006
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_1' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_0' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_2' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_2' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			bake time:  0 min, 0.015 secs
+		Custom split normals with tangents being used
+		num positions      :  8684
+		num normals        :  8684
+		num tangents       :  34736
+		num uvs            :  17368
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  15730
+	processing begun of mesh:  LK39849F1 SL_1
+		processing begun of material:  亮片_2888.007
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_1' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_0' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_2' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_2' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			bake time:  0 min, 0.2998 secs
+		Custom split normals with tangents being used
+		num positions      :  201713
+		num normals        :  201713
+		num tangents       :  806852
+		num uvs            :  403426
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  398458
+	processing begun of mesh:  LK39849F1 CUT_1
+		processing begun of material:  亮片_2888.008
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_1' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_0' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_2' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_2' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			bake time:  0 min, 0.0156 secs
+		Custom split normals with tangents being used
+		num positions      :  8649
+		num normals        :  8649
+		num tangents       :  34596
+		num uvs            :  17298
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  15526
+	processing begun of mesh:  LK39849F1 SL_2
+		processing begun of material:  亮片_2888.009
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_1' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_0' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_2' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_2' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			bake time:  0 min, 0.3141 secs
+		Custom split normals with tangents being used
+		num positions      :  202088
+		num normals        :  202088
+		num tangents       :  808352
+		num uvs            :  404176
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  399082
+	processing begun of mesh:  LK39849F1 CUT_2
+		processing begun of material:  亮片_2888.010
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_1' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_0' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_2' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_2' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+			bake time:  0 min, 0.016 secs
+		Custom split normals with tangents being used
+		num positions      :  8649
+		num normals        :  8649
+		num tangents       :  34596
+		num uvs            :  17298
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  15526
+	processing begun of node:  Trim
+	processing begun of mesh:  551004962X
+		processing begun of material:  551004962X_3420
+		processing begun of material:  551004962X_3424
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+		processing begun of material:  551004962X_3431
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+		processing begun of material:  551004962X_3436
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture X_baked_551004962_DIFFUSE
+			Diffuse / albeto channel baked
+			Baking texture, type: EMIT, mapped using: BakingUV
+			processing texture X_baked_551004962_EMIT
+			emissive channel baked
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture X_baked_551004962_GLOSSY
+			specular channel baked
+			bake time:  0 min, 9.4961 secs
+		Custom split normals with tangents being used
+		num positions      :  25662
+		num normals        :  25662
+		num tangents       :  102648
+		num uvs            :  51324
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  26864
+		WARNING: # of 0 area faces found:  20
+	processing begun of node:  Trim.001
+	processing begun of mesh:  551004962X.001
+		processing begun of material:  551004962X_3420
+		processing begun of material:  551004962X_3424
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+		processing begun of material:  551004962X_3431
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+		processing begun of material:  551004962X_3436
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture X_001_baked_551004962_DIFFUSE
+			Diffuse / albeto channel baked
+			Baking texture, type: EMIT, mapped using: BakingUV
+			processing texture X_001_baked_551004962_EMIT
+			emissive channel baked
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture X_001_baked_551004962_GLOSSY
+			specular channel baked
+			bake time:  0 min, 8.9944 secs
+		Custom split normals with tangents being used
+		num positions      :  25831
+		num normals        :  25831
+		num tangents       :  103324
+		num uvs            :  51662
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  26864
+		WARNING: # of 0 area faces found:  20
+	processing begun of node:  Trim.002
+	processing begun of mesh:  551004962X.002
+		processing begun of material:  551004962X_3420
+		processing begun of material:  551004962X_3424
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+		processing begun of material:  551004962X_3431
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+		processing begun of material:  551004962X_3436
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture X_002_baked_551004962_DIFFUSE
+			Diffuse / albeto channel baked
+			Baking texture, type: EMIT, mapped using: BakingUV
+			processing texture X_002_baked_551004962_EMIT
+			emissive channel baked
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture X_002_baked_551004962_GLOSSY
+			specular channel baked
+			bake time:  0 min, 9.0581 secs
+		Custom split normals with tangents being used
+		num positions      :  25960
+		num normals        :  25960
+		num tangents       :  103840
+		num uvs            :  51920
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  26864
+		WARNING: # of 0 area faces found:  20
+	processing begun of node:  Trim.003
+	processing begun of mesh:  551004962X.003
+		processing begun of material:  551004962X_3420
+		processing begun of material:  551004962X_3424
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+		processing begun of material:  551004962X_3431
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+		processing begun of material:  551004962X_3436
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: unsupported node type(ShaderNodeSeparateColor) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture X_003_baked_551004962_DIFFUSE
+			Diffuse / albeto channel baked
+			Baking texture, type: EMIT, mapped using: BakingUV
+			processing texture X_003_baked_551004962_EMIT
+			emissive channel baked
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture X_003_baked_551004962_GLOSSY
+			specular channel baked
+			bake time:  0 min, 8.911 secs
+		Custom split normals with tangents being used
+		num positions      :  25651
+		num normals        :  25651
+		num tangents       :  102604
+		num uvs            :  51302
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  26864
+		WARNING: # of 0 area faces found:  20
+	processing begun of node:  Topstitch
+	processing begun of mesh:  Topstitch_822703
+		processing begun of material:  ISO_301_Lockstitch 1/16"_3127
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_6' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+		Custom split normals with tangents being used
+		num positions      :  48972
+		num normals        :  48972
+		num tangents       :  195888
+		num uvs            :  97944
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  84084
+	processing begun of node:  Topstitch.001
+	processing begun of mesh:  Topstitch_825742
+		processing begun of material:  ISO_301_Lockstitch 1/16"_3127
+		registered as also a user of material:  ISO_301_Lockstitch 1/16"_3127
+		Custom split normals with tangents being used
+		num positions      :  48336
+		num normals        :  48336
+		num tangents       :  193344
+		num uvs            :  96672
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  82992
+	processing begun of node:  Topstitch.002
+	processing begun of mesh:  Topstitch_773746
+		processing begun of material:  ISO_301_Lockstitch 1/16"_3127
+		registered as also a user of material:  ISO_301_Lockstitch 1/16"_3127
+		Custom split normals with tangents being used
+		num positions      :  37948
+		num normals        :  37948
+		num tangents       :  151792
+		num uvs            :  75896
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  65156
+	processing begun of node:  Topstitch.003
+	processing begun of mesh:  Topstitch_800662
+		processing begun of material:  ISO_301_Lockstitch 0_3231
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_6' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+		Custom split normals with tangents being used
+		num positions      :  2756
+		num normals        :  2756
+		num tangents       :  11024
+		num uvs            :  5512
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  4732
+	processing begun of node:  Topstitch.004
+	processing begun of mesh:  Topstitch_789510
+		processing begun of material:  ISO_301_Lockstitch 1/16"_3127
+		registered as also a user of material:  ISO_301_Lockstitch 1/16"_3127
+		Custom split normals with tangents being used
+		num positions      :  18020
+		num normals        :  18020
+		num tangents       :  72080
+		num uvs            :  36040
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  30940
+		WARNING: # of 0 area faces found:  2
+	processing begun of node:  Topstitch.005
+	processing begun of mesh:  Topstitch_809862
+		processing begun of material:  ISO_401_Chainstitch 1/4"_3334
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_6' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+		Custom split normals with tangents being used
+		num positions      :  5724
+		num normals        :  5724
+		num tangents       :  22896
+		num uvs            :  11448
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  9828
+	processing begun of node:  Topstitch.006
+	processing begun of mesh:  Topstitch_809862.001
+		processing begun of material:  ISO_401_Chainstitch 1/4"_3353
+			processing texture 
+				WARNING: Exception during copy:
+					Error: Could not write image: Permission denied
+Error: Image 'Image_6' could not be saved to 'D:\个人\CIT\Aimde\babylog\export\shinny\.'
+
+		Custom split normals with tangents being used
+		num positions      :  18198
+		num normals        :  18198
+		num tangents       :  72792
+		num uvs            :  36396
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  25812
+	processing begun of node:  Topstitch.007
+	processing begun of mesh:  Topstitch_812293
+		processing begun of material:  ISO_401_Chainstitch 1/4"_3334
+		registered as also a user of material:  ISO_401_Chainstitch 1/4"_3334
+		Custom split normals with tangents being used
+		num positions      :  5724
+		num normals        :  5724
+		num tangents       :  22896
+		num uvs            :  11448
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  9828
+	processing begun of node:  Topstitch.008
+	processing begun of mesh:  Topstitch_812293.001
+		processing begun of material:  ISO_401_Chainstitch 1/4"_3353
+		registered as also a user of material:  ISO_401_Chainstitch 1/4"_3353
+		Custom split normals with tangents being used
+		num positions      :  18198
+		num normals        :  18198
+		num tangents       :  72792
+		num uvs            :  36396
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  25812
+========= Writing of JSON file started =========
+		WARNING: Non-scalar custom prop "M3" ignored.
+		WARNING: Non-scalar custom prop "scatter5" ignored.
+		WARNING: Non-scalar custom prop "flip_fluid" ignored.
+		WARNING: Non-scalar custom prop "M3" ignored.
+		WARNING: Non-scalar custom prop "scatter5" ignored.
+		WARNING: Non-scalar custom prop "flip_fluid" ignored.
+	writing mesh:  LK39849F1 COWW-TEM
+	writing mesh:  LK39849F1 plttt
+	writing mesh:  Buttonhole_753983
+	writing mesh:  Buttonhole_756832
+	writing mesh:  Buttonhole_759688
+	writing mesh:  Buttonhole_762513
+	writing mesh:  LK39849F1 COT-TEM
+	writing mesh:  LK39849F1 plttt 2
+	writing mesh:  LK39849F1 BK
+	writing mesh:  LK39849F1 FR
+	writing mesh:  LK39849F1 BTA1
+	writing mesh:  LK39849F1 SL_1
+	writing mesh:  LK39849F1 CUT_1
+	writing mesh:  LK39849F1 SL_2
+	writing mesh:  LK39849F1 CUT_2
+		WARNING: Non-scalar custom prop "M3" ignored.
+		WARNING: Non-scalar custom prop "scatter5" ignored.
+		WARNING: Non-scalar custom prop "flip_fluid" ignored.
+	writing mesh:  551004962X
+		WARNING: Non-scalar custom prop "M3" ignored.
+		WARNING: Non-scalar custom prop "scatter5" ignored.
+		WARNING: Non-scalar custom prop "flip_fluid" ignored.
+	writing mesh:  551004962X.001
+		WARNING: Non-scalar custom prop "M3" ignored.
+		WARNING: Non-scalar custom prop "scatter5" ignored.
+		WARNING: Non-scalar custom prop "flip_fluid" ignored.
+	writing mesh:  551004962X.002
+		WARNING: Non-scalar custom prop "M3" ignored.
+		WARNING: Non-scalar custom prop "scatter5" ignored.
+		WARNING: Non-scalar custom prop "flip_fluid" ignored.
+	writing mesh:  551004962X.003
+		WARNING: Non-scalar custom prop "M3" ignored.
+		WARNING: Non-scalar custom prop "scatter5" ignored.
+		WARNING: Non-scalar custom prop "flip_fluid" ignored.
+	writing mesh:  Topstitch_822703
+		WARNING: Non-scalar custom prop "M3" ignored.
+		WARNING: Non-scalar custom prop "scatter5" ignored.
+		WARNING: Non-scalar custom prop "flip_fluid" ignored.
+	writing mesh:  Topstitch_825742
+		WARNING: Non-scalar custom prop "M3" ignored.
+		WARNING: Non-scalar custom prop "scatter5" ignored.
+		WARNING: Non-scalar custom prop "flip_fluid" ignored.
+	writing mesh:  Topstitch_773746
+		WARNING: Non-scalar custom prop "M3" ignored.
+		WARNING: Non-scalar custom prop "scatter5" ignored.
+		WARNING: Non-scalar custom prop "flip_fluid" ignored.
+	writing mesh:  Topstitch_800662
+		WARNING: Non-scalar custom prop "M3" ignored.
+		WARNING: Non-scalar custom prop "scatter5" ignored.
+		WARNING: Non-scalar custom prop "flip_fluid" ignored.
+	writing mesh:  Topstitch_789510
+		WARNING: Non-scalar custom prop "M3" ignored.
+		WARNING: Non-scalar custom prop "scatter5" ignored.
+		WARNING: Non-scalar custom prop "flip_fluid" ignored.
+	writing mesh:  Topstitch_809862
+		WARNING: Non-scalar custom prop "M3" ignored.
+		WARNING: Non-scalar custom prop "scatter5" ignored.
+		WARNING: Non-scalar custom prop "flip_fluid" ignored.
+	writing mesh:  Topstitch_809862.001
+		WARNING: Non-scalar custom prop "M3" ignored.
+		WARNING: Non-scalar custom prop "scatter5" ignored.
+		WARNING: Non-scalar custom prop "flip_fluid" ignored.
+	writing mesh:  Topstitch_812293
+		WARNING: Non-scalar custom prop "M3" ignored.
+		WARNING: Non-scalar custom prop "scatter5" ignored.
+		WARNING: Non-scalar custom prop "flip_fluid" ignored.
+	writing mesh:  Topstitch_812293.001
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  1 min, 40.2054 secs
